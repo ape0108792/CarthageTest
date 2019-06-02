@@ -16,7 +16,7 @@
 		AE9A28A022A40D0200402BC1 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = AE9A287422A4015100402BC1 /* AppDelegate.swift */; };
 		AE9A28A122A40D0200402BC1 /* Main.storyboard in Sources */ = {isa = PBXBuildFile; fileRef = AE9A287822A4015100402BC1 /* Main.storyboard */; };
 		AE9A28A222A40D4000402BC1 /* TestClass.swift in Sources */ = {isa = PBXBuildFile; fileRef = AE9A288622A4017A00402BC1 /* TestClass.swift */; };
-		AE9A28A422A40D4E00402BC1 /* Test.swift in Sources */ = {isa = PBXBuildFile; fileRef = AE9A28A322A40D4E00402BC1 /* Test.swift */; };
+		AE9A28A522A40E5000402BC1 /* TestClass.swift in Sources */ = {isa = PBXBuildFile; fileRef = AE9A288622A4017A00402BC1 /* TestClass.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -54,7 +54,6 @@
 		AE9A288D22A4023200402BC1 /* CarthegeFramework.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = CarthegeFramework.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		AE9A288F22A4023200402BC1 /* CarthegeFramework.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = CarthegeFramework.h; sourceTree = "<group>"; };
 		AE9A289022A4023200402BC1 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		AE9A28A322A40D4E00402BC1 /* Test.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Test.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -112,7 +111,6 @@
 			children = (
 				AE9A288F22A4023200402BC1 /* CarthegeFramework.h */,
 				AE9A289022A4023200402BC1 /* Info.plist */,
-				AE9A28A322A40D4E00402BC1 /* Test.swift */,
 			);
 			path = CarthegeFramework;
 			sourceTree = "<group>";
@@ -241,7 +239,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				AE9A28A422A40D4E00402BC1 /* Test.swift in Sources */,
+				AE9A28A522A40E5000402BC1 /* TestClass.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
