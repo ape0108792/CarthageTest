@@ -10,10 +10,11 @@
 		AE9A287A22A4015100402BC1 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = AE9A287822A4015100402BC1 /* Main.storyboard */; };
 		AE9A287C22A4015200402BC1 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = AE9A287B22A4015200402BC1 /* Assets.xcassets */; };
 		AE9A287F22A4015200402BC1 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = AE9A287D22A4015200402BC1 /* LaunchScreen.storyboard */; };
-		AE9A288722A4017A00402BC1 /* TestClass.swift in Sources */ = {isa = PBXBuildFile; fileRef = AE9A288622A4017A00402BC1 /* TestClass.swift */; };
 		AE9A289122A4023200402BC1 /* CarthegeFramework.h in Headers */ = {isa = PBXBuildFile; fileRef = AE9A288F22A4023200402BC1 /* CarthegeFramework.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		AE9A289422A4023200402BC1 /* CarthegeFramework.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = AE9A288D22A4023200402BC1 /* CarthegeFramework.framework */; };
 		AE9A289522A4023200402BC1 /* CarthegeFramework.framework in Embed Frameworks */ = {isa = PBXBuildFile; fileRef = AE9A288D22A4023200402BC1 /* CarthegeFramework.framework */; settings = {ATTRIBUTES = (CodeSignOnCopy, RemoveHeadersOnCopy, ); }; };
+		AE9A289B22A40AAE00402BC1 /* TestClass.swift in Sources */ = {isa = PBXBuildFile; fileRef = AE9A288622A4017A00402BC1 /* TestClass.swift */; };
+		AE9A289C22A40ACC00402BC1 /* TestClass.swift in Sources */ = {isa = PBXBuildFile; fileRef = AE9A288622A4017A00402BC1 /* TestClass.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -94,8 +95,8 @@
 			isa = PBXGroup;
 			children = (
 				AE9A287422A4015100402BC1 /* AppDelegate.swift */,
-				AE9A287822A4015100402BC1 /* Main.storyboard */,
 				AE9A288622A4017A00402BC1 /* TestClass.swift */,
+				AE9A287822A4015100402BC1 /* Main.storyboard */,
 				AE9A287B22A4015200402BC1 /* Assets.xcassets */,
 				AE9A287D22A4015200402BC1 /* LaunchScreen.storyboard */,
 				AE9A288022A4015200402BC1 /* Info.plist */,
@@ -225,7 +226,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				AE9A288722A4017A00402BC1 /* TestClass.swift in Sources */,
+				AE9A289B22A40AAE00402BC1 /* TestClass.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -233,6 +234,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				AE9A289C22A40ACC00402BC1 /* TestClass.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -385,6 +387,7 @@
 		AE9A288422A4015200402BC1 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
 				INFOPLIST_FILE = CarthgeTest/Info.plist;
@@ -402,6 +405,7 @@
 		AE9A288522A4015200402BC1 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
 				INFOPLIST_FILE = CarthgeTest/Info.plist;
