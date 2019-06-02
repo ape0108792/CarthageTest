@@ -6,4 +6,12 @@
 //  Copyright © 2019 황도증. All rights reserved.
 //
 
-import Foundation
+import UIKit
+
+public class CarthegeTest: NSObject {
+    public static let descriptions = "Helle, Carthege"
+    
+    public func sayWord() {
+        print(CarthegeTest.descriptions)
+    }
+}
