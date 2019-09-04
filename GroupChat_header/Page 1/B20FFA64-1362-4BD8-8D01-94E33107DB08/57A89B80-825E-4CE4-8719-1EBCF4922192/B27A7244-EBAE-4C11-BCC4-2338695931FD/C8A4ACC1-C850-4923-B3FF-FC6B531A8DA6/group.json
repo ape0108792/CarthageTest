@@ -1,0 +1,61 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "C8A4ACC1-C850-4923-B3FF-FC6B531A8DA6",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "9FC262B6-0BCD-460E-B22C-6BE3AB446C5F",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "BEA3E6DC-1D8D-4E3F-95AD-AD952DF14363",
+    "height": 36,
+    "width": 273,
+    "x": 38,
+    "y": 0
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout",
+    "do_objectID": "DED972D5-C030-4DDD-8CAA-0691BABB383A"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "1C25C77B-B59C-4CBF-9ACA-6334E1E66E97"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "54F48F33-41EF-4A76-AA48-2B872CB7B965"
+    }
+  ],
+  "name": "input_chatroom",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "883EAC27-4A06-485B-AC29-35E97ACDBDEC",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

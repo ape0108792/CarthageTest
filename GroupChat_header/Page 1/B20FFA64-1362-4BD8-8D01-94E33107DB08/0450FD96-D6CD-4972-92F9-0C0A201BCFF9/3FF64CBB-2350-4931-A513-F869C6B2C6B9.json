@@ -1,0 +1,63 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "3FF64CBB-2350-4931-A513-F869C6B2C6B9",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "B3D477C4-DCD0-4D12-A124-2165F90F2710",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "5C938FEF-753B-44A6-ACEE-B3FE49422B11",
+    "height": 20,
+    "width": 375,
+    "x": 0,
+    "y": 0
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Bars/Status/White",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "9975C590-AC42-4FD3-81C1-F3C670E75E39_stringValue",
+      "value": "8:23 PM"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "0932E3B0-BE32-4E33-857D-4AAA7E1C186F",
+      "overrideName": "6001E1EF-DF96-40A7-83E6-CC85346D1D0E/62FB6008-C521-48F3-B155-B805D5B215D2_stringValue",
+      "value": "KT"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "EE7C944D-5224-402D-A0FC-6CCCB6294BD9",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "00DB28AD-22D3-47F9-8D96-460081C29101",
+  "verticalSpacing": 0
+}
