@@ -51,7 +51,7 @@
     "do_objectID": "D7756DC0-6D84-452D-AAFF-3D1DB4D0C746"
   },
   "hasBackgroundColor": true,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -86,10 +86,6 @@
     {
       "class": "group",
       "id": "99C94F95-B0AB-4056-B490-0AFD344317DB"
-    },
-    {
-      "class": "group",
-      "id": "679B1711-D997-47F0-AECD-B87AC3DFE8B1"
     },
     {
       "class": "group",
