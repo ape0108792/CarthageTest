@@ -1,0 +1,117 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "743E1DBD-42C7-4673-A2DE-268A8B849860",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "B0861E36-6A1C-4D76-A637-7A48D60A7074",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "8472D16F-A0E5-4099-BA67-EF88AB8F2546",
+    "height": 45,
+    "width": 343,
+    "x": 0,
+    "y": 1
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Open chat",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "829710FE-2D3F-42DA-8931-DFD2F9AD1C69_stringValue",
+      "value": "今すぐ"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "89875EF4-B6DA-45D9-B12F-AAA871DBE6F1_stringValue",
+      "value": "887"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "12A73CCF-324F-47CD-A35C-BDA86DB2DA61_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/cd384661c6f5a7c2ae8548724252dcd07408ba4f.png",
+        "_ref_class": "MSImageData"
+      }
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "9F85A8B3-EF79-46F2-854D-EE9F06D1B09C_stringValue",
+      "value": "9"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "6E27E36D-089D-4189-8050-BC2A8A567628_stringValue",
+      "value": "This is the best day of my life."
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "5B32D879-70DD-4143-9837-7767F5409549_symbolID",
+      "value": ""
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "0D3E4718-71C7-467E-A53A-6B5C617FBB9F_stringValue",
+      "value": "忙しく眠く空腹...これが私の人生のか"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "39B35A8E-CA69-4A51-9762-F91EF4599640_stringValue",
+      "value": "横山知可"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "D5D25304-6F96-4E2F-B1DE-668497E2CF9A_stringValue",
+      "value": "無事渡してみよう"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "989F6B8E-7F96-4CAE-95EF-4ACA8F817415",
+      "overrideName": "18DD8834-BEFB-4B1A-8CC7-A90C9C5CFABB_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/9f14a2aed14cbc30cdbf2ea01e8071b73598b639.png",
+        "_ref_class": "MSImageData"
+      }
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "0612223E-44BE-49D0-911C-CE600A6086C7",
+      "overrideName": "83BD9C48-C96D-4A21-8124-51FA7080487C_stringValue",
+      "value": "Hamabe Minami awebwe (37)"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "1493BE16-F26B-420A-A52A-6DD4A2726AE9",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "815B64D2-F80D-44C8-9B78-2D73EE7E4C4A",
+  "verticalSpacing": 0
+}

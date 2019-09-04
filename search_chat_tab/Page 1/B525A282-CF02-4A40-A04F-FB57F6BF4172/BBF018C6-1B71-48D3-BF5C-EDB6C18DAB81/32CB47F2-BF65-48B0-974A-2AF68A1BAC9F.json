@@ -1,0 +1,68 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "32CB47F2-BF65-48B0-974A-2AF68A1BAC9F",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "E47C15F3-C9DE-421A-AA79-DDB08421714E",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "29886186-081A-4AFB-BCF4-40F894FF1ED1",
+    "height": 103,
+    "width": 307,
+    "x": 18,
+    "y": 544
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "new_1 copy",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "EFB72DEB-5DB6-4730-8D20-CC3FB9454D7F",
+      "overrideName": "7EAB4515-5C27-48BB-B855-AC660B42ACA0_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/58710ecccb47045610cbbc8eab414fc7b5af903a.png",
+        "_ref_class": "MSImageData"
+      }
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "4453A008-A4A9-4CF2-BF1F-F5A99ADA51BB",
+      "overrideName": "F0671CB6-742F-4DA0-ACD5-6FE34BCB2774_stringValue",
+      "value": "Hamabe Minami Kakegurui film opens in may, Teaser poster revealed "
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "B76BFD8E-E8CD-4ED7-8326-935C1719E0DE",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "AA4BDD9C-9851-4977-8933-109F5D922070",
+  "verticalSpacing": 0
+}

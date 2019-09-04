@@ -1,0 +1,90 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "724BF175-F356-40F3-8F6A-1C3F7DA19145",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "2CB9250A-7769-40B9-BB9D-3D436940A54D",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "756976E6-79C4-4930-9AAB-7EB157202100",
+    "height": 82,
+    "width": 307,
+    "x": 18,
+    "y": 314
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "new_1",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "4BF77E5E-35B8-40E9-9B0D-F5143B9B2EBF",
+      "overrideName": "39A33958-B9F5-415D-8621-F50E16762C62_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/438d864d102098516e274d77971a9b79b56ceb50.png",
+        "_ref_class": "MSImageData"
+      }
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "E77592AE-570B-4261-BAEB-BBAFED28687D",
+      "overrideName": "48FE5BBF-6D59-4822-989B-65D7A567EFE5_stringValue",
+      "value": "局の人気ドラマやバラエティを好きなときに無料で動画視聴できるキ..."
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "2CB4D9CF-618B-4215-B357-251426E16105",
+      "overrideName": "91A007D9-C512-45C4-BFF0-C79B0312626D_stringValue",
+      "value": "Sensei Kunshu : Looking for love in all"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "E2479239-E59C-46B9-9D00-6E9174C3444C",
+      "overrideName": "23CC2BC9-B3CE-48AD-A702-17815AF692CB_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/5feb59781320040bb7447dc1dfa72aedf8de6a02.png",
+        "_ref_class": "MSImageData"
+      }
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "04BCEFF9-3D4D-4E94-8A65-2CCB904FD124",
+      "overrideName": "D4D46C3A-6510-43BC-8332-2F50B3FEF1E0_stringValue",
+      "value": "Action film Let Me Eat Your Pancrs, which is Hamabe Minami..."
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "ED7893E3-ED43-4B0B-A4B7-DF1BBD89EFE7",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "8B875241-DF23-4F7D-A771-404A6C61C825",
+  "verticalSpacing": 0
+}

@@ -1,0 +1,68 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "B52BEF4F-82B8-48EB-8372-9DA93E688B50",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "993A40FA-68AF-437E-A937-24B5CA47E90B",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "9A8D1C21-D778-4663-AF14-EA7AB79A7AC7",
+    "height": 103,
+    "width": 307,
+    "x": 18,
+    "y": 418
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "new_1",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "EFB72DEB-5DB6-4730-8D20-CC3FB9454D7F",
+      "overrideName": "7EAB4515-5C27-48BB-B855-AC660B42ACA0_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/0550ab889b1ae47ebd92e831cf1f26c3eb75c36a.png",
+        "_ref_class": "MSImageData"
+      }
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "4453A008-A4A9-4CF2-BF1F-F5A99ADA51BB",
+      "overrideName": "F0671CB6-742F-4DA0-ACD5-6FE34BCB2774_stringValue",
+      "value": "Kakegurui Movie releases trailer featuring opening theme! The party with minami"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "6F2E182C-6AB3-4FAE-A495-FE1206720D53",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "AA4BDD9C-9851-4977-8933-109F5D922070",
+  "verticalSpacing": 0
+}

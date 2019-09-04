@@ -1,0 +1,61 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "FF91A57E-7707-45AC-B4CE-0B5D51069542",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "0C123549-35A1-4C16-A741-0539BCE434D9",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "0C04D82B-731B-4169-80B1-D5B25EE4DF79",
+    "height": 55,
+    "width": 55,
+    "x": 0,
+    "y": 142
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout",
+    "do_objectID": "D87DE66F-A351-4AE2-8535-281A6EE21832"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "oval",
+      "id": "F3A52983-4D87-4477-898B-E340E967FE45"
+    },
+    {
+      "class": "text",
+      "id": "A5C5BD0C-371D-4EB0-BD9E-E99389CEB649"
+    }
+  ],
+  "name": "스크린샷 2018-09-27 오후 10.30.27",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "400CB3FB-5FA5-4649-B8FA-9E8F20613A91",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

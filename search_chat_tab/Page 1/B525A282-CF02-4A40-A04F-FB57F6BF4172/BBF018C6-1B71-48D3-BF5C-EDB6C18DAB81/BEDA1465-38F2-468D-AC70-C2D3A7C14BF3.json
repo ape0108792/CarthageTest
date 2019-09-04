@@ -1,0 +1,80 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "BEDA1465-38F2-468D-AC70-C2D3A7C14BF3",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "151DD972-FE5E-4954-99B2-DB2CEE24FAA7",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "7E51708D-0565-4767-8376-A51A17C5B79C",
+    "height": 103,
+    "width": 307,
+    "x": 18,
+    "y": 185
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "new_1",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "6AFE791E-11EF-44DC-AFD5-64AEC049E7AC",
+      "overrideName": "F0671CB6-742F-4DA0-ACD5-6FE34BCB2774_stringValue",
+      "value": "Hamabe Minami live-action tem data deas revelada ceremony was build"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "10E99EA1-732C-4436-8C6A-F03FE71D97C6",
+      "overrideName": "7EAB4515-5C27-48BB-B855-AC660B42ACA0_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/182971e93ea598193fb56e30df0ebd47e0e640a2.png",
+        "_ref_class": "MSImageData"
+      }
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "7A3A2F13-5A53-4609-A92F-34458F62C142",
+      "overrideName": "48FE5BBF-6D59-4822-989B-65D7A567EFE5_stringValue",
+      "value": "岡田は幸せそうな家族妻夫木聡黒木華に襲いかかる霊的な存在“あれ..."
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "ECAB72F9-F2D7-4D2E-815A-3A7C9E68A829",
+      "overrideName": "1EEFD849-B3D1-48D4-8BB5-7B481BC1D08E_stringValue",
+      "value": "Action film Let Me Eat Your Pance, which has also gained..."
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "A043FA19-3187-40EB-AC29-20C5B34854EB",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "AA4BDD9C-9851-4977-8933-109F5D922070",
+  "verticalSpacing": 0
+}

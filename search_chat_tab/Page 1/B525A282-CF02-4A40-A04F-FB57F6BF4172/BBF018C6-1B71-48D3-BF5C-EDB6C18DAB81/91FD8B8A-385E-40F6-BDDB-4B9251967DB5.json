@@ -1,0 +1,64 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "91FD8B8A-385E-40F6-BDDB-4B9251967DB5",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "CE4735E4-ECFF-43DB-A30B-7DF9C10F8623",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "324EE0CC-0159-42D7-A64B-31819AA51DA4",
+    "height": 31,
+    "width": 343,
+    "x": 0,
+    "y": 0
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "title_kr",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "31D643A7-2A00-45DC-B998-740844ACB816",
+      "overrideName": "1534DD0F-7F01-482B-95FE-51FF93E41826_stringValue",
+      "value": "News"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "99C0AE44-B830-4940-B5ED-34577DB849B6",
+      "overrideName": "CDFCFA82-CA32-4E41-8E10-023A83C78ACF_stringValue",
+      "value": " "
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "3FBC72D4-142B-43B8-94CA-9B487878E03D",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "F7CE217A-18F9-4123-B7AE-624191887C02",
+  "verticalSpacing": 0
+}

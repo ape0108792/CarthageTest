@@ -1,0 +1,109 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "D78AC5AA-C687-4944-B92D-F2B7797E3D1D",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "5653D050-9C50-4966-B3B4-3BA9CCC2ADAB",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "D459B189-3FBA-4FE0-8853-72CB42E1CC61",
+    "height": 45,
+    "width": 343,
+    "x": 0,
+    "y": 0
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Open chat",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "829710FE-2D3F-42DA-8931-DFD2F9AD1C69_stringValue",
+      "value": "今すぐ"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "89875EF4-B6DA-45D9-B12F-AAA871DBE6F1_stringValue",
+      "value": "887"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "12A73CCF-324F-47CD-A35C-BDA86DB2DA61_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/cd384661c6f5a7c2ae8548724252dcd07408ba4f.png",
+        "_ref_class": "MSImageData"
+      }
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "9F85A8B3-EF79-46F2-854D-EE9F06D1B09C_stringValue",
+      "value": "9"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "584423F7-5201-4F3B-9A06-E86254B4BAE3_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/b2846cec237bedbf2eb2fceda28939459e67fc1f.png",
+        "_ref_class": "MSImageData"
+      }
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "964454DA-E139-417B-A926-F4567DD4872D_symbolID",
+      "value": ""
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "18DD8834-BEFB-4B1A-8CC7-A90C9C5CFABB_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/b2846cec237bedbf2eb2fceda28939459e67fc1f.png",
+        "_ref_class": "MSImageData"
+      }
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "4E7B5B55-F2DF-436F-A069-C6AEDBAC4C87_stringValue",
+      "value": "あおい浜崎"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "83BD9C48-C96D-4A21-8124-51FA7080487C_stringValue",
+      "value": "Hamabe Minami (2)"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "25F15EF7-1AD1-4154-9694-211559934129",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "815B64D2-F80D-44C8-9B78-2D73EE7E4C4A",
+  "verticalSpacing": 0
+}

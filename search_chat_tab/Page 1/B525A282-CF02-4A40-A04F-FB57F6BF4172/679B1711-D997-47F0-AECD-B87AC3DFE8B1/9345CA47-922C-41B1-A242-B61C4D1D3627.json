@@ -1,0 +1,62 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "9345CA47-922C-41B1-A242-B61C4D1D3627",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "EBFA63FD-34AE-41C1-A8C9-BCE7C3DFDCF0",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "121BB870-F167-436E-BBD2-77356EC5B722",
+    "height": 31,
+    "width": 343,
+    "x": 0,
+    "y": 0
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "title_kr",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "CDFCFA82-CA32-4E41-8E10-023A83C78ACF_stringValue",
+      "value": "12"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "1534DD0F-7F01-482B-95FE-51FF93E41826_stringValue",
+      "value": "Chats 48"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "AE64DA6F-2AAB-4A0D-B05D-04DB92E20355",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "F7CE217A-18F9-4123-B7AE-624191887C02",
+  "verticalSpacing": 0
+}

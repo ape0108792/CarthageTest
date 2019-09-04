@@ -1,0 +1,111 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "0D69ADFC-3676-4FA6-927E-1410DA31EEE6",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "9F55B399-8160-4324-AB99-5012A9F494FD",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "DB04016C-7D5B-4BD1-BC6F-9776C0C510F4",
+    "height": 45,
+    "width": 343,
+    "x": 0,
+    "y": 0
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Open chat",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "829710FE-2D3F-42DA-8931-DFD2F9AD1C69_stringValue",
+      "value": "今すぐ"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "89875EF4-B6DA-45D9-B12F-AAA871DBE6F1_stringValue",
+      "value": "887"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "12A73CCF-324F-47CD-A35C-BDA86DB2DA61_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/cd384661c6f5a7c2ae8548724252dcd07408ba4f.png",
+        "_ref_class": "MSImageData"
+      }
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "9F85A8B3-EF79-46F2-854D-EE9F06D1B09C_stringValue",
+      "value": "9"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "584423F7-5201-4F3B-9A06-E86254B4BAE3_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/d9407e65d26748ad734dc8253a35bda29b7fb486.png",
+        "_ref_class": "MSImageData"
+      }
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "DEB7D836-DAF2-40B5-91AA-CB0F59F084B3_symbolID",
+      "value": ""
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "D5D25304-6F96-4E2F-B1DE-668497E2CF9A_stringValue",
+      "value": "あおい浜崎"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "C8F1EB02-CC38-448A-A9C1-30214FEC7097",
+      "overrideName": "18DD8834-BEFB-4B1A-8CC7-A90C9C5CFABB_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/d9407e65d26748ad734dc8253a35bda29b7fb486.png",
+        "_ref_class": "MSImageData"
+      }
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "71602C52-371A-4E08-BFCB-34706DA2D9BB",
+      "overrideName": "83BD9C48-C96D-4A21-8124-51FA7080487C_stringValue",
+      "value": "Minami fans Hamabe (779)"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "1424BBD3-EEE9-4693-AFD9-9DB502623332",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "815B64D2-F80D-44C8-9B78-2D73EE7E4C4A",
+  "verticalSpacing": 0
+}

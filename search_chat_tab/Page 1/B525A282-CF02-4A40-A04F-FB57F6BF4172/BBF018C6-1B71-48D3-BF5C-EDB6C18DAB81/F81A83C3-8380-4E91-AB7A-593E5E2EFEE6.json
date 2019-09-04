@@ -1,0 +1,68 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "F81A83C3-8380-4E91-AB7A-593E5E2EFEE6",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "D5B5B533-102A-488D-8DC9-B043913E9692",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "3053711A-5864-4D6B-815A-AE87DBF64305",
+    "height": 103,
+    "width": 307,
+    "x": 18,
+    "y": 59
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "name": "new_1",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "6AFE791E-11EF-44DC-AFD5-64AEC049E7AC",
+      "overrideName": "F0671CB6-742F-4DA0-ACD5-6FE34BCB2774_stringValue",
+      "value": "Hamabe won the New generation award at the 7th Toho Cinderella Audition she..."
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "10E99EA1-732C-4436-8C6A-F03FE71D97C6",
+      "overrideName": "7EAB4515-5C27-48BB-B855-AC660B42ACA0_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/c580cb33bd5d1b3fe8978376665d5a75ce171528.png",
+        "_ref_class": "MSImageData"
+      }
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "DF8C404A-FEF1-49EB-8753-F3FAF82A91E5",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "AA4BDD9C-9851-4977-8933-109F5D922070",
+  "verticalSpacing": 0
+}

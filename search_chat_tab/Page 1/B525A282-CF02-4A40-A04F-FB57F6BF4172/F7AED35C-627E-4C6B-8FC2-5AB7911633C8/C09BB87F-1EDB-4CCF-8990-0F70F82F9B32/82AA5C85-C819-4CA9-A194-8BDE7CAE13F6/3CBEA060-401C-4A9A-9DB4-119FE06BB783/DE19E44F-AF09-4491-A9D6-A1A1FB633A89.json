@@ -1,0 +1,106 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "DE19E44F-AF09-4491-A9D6-A1A1FB633A89",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "4A99B42B-8C23-475D-BA49-CFCCDC506036",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "090AF68A-A23D-4020-9856-A7A39B744D24",
+    "height": 45,
+    "width": 343,
+    "x": 0,
+    "y": 0
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Open chat",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "12A73CCF-324F-47CD-A35C-BDA86DB2DA61_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/b1dfb88f7b9554c60f5b798861092e9d8d75e425.png",
+        "_ref_class": "MSImageData"
+      }
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "9F85A8B3-EF79-46F2-854D-EE9F06D1B09C_stringValue",
+      "value": "683"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "6BB4D8E3-0531-4A41-96F2-B316AEE07337_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/814d3dec05eda218c0b3802e02b279a05832ac5c.png",
+        "_ref_class": "MSImageData"
+      }
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "D7D6C0A5-6DB2-49FB-B4A5-B9221B447B11_stringValue",
+      "value": "Min eunhee"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "DEB7D836-DAF2-40B5-91AA-CB0F59F084B3_symbolID",
+      "value": ""
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "D5D25304-6F96-4E2F-B1DE-668497E2CF9A_stringValue",
+      "value": "Hermes"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "9A12E8DB-843E-4C99-8EEC-C8599E3DD758",
+      "overrideName": "18DD8834-BEFB-4B1A-8CC7-A90C9C5CFABB_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/814d3dec05eda218c0b3802e02b279a05832ac5c.png",
+        "_ref_class": "MSImageData"
+      }
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "E63AAE1C-1B34-4F0F-84E3-6C551EE172D0",
+      "overrideName": "83BD9C48-C96D-4A21-8124-51FA7080487C_stringValue",
+      "value": "Hamabe Minami 2"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "72E74AC8-9440-413C-860F-27C9EE40EE1E",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "815B64D2-F80D-44C8-9B78-2D73EE7E4C4A",
+  "verticalSpacing": 0
+}

@@ -1,0 +1,57 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "F7AED35C-627E-4C6B-8FC2-5AB7911633C8",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "07C4E11E-AA32-48AA-B734-FFD86CB7091E",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "4A3F0E3A-AFCB-4B24-B677-1B5E8DC50172",
+    "height": 430,
+    "width": 343,
+    "x": 16,
+    "y": 935
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout",
+    "do_objectID": "18AA276D-2642-4995-A041-6BB94A5B0CBE"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "group",
+      "id": "C09BB87F-1EDB-4CCF-8990-0F70F82F9B32"
+    }
+  ],
+  "name": "친구",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "3F0BDA0D-172B-4E99-B738-34992602814E",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

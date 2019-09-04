@@ -1,0 +1,114 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "10263E7F-4D35-4672-BFA7-A97E39CAE35C",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "BFE1F2A2-199C-4B90-9CB7-D869C45DB963",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "92AB6E59-A895-4E57-9B80-65CF93FD13AE",
+    "height": 55,
+    "width": 343,
+    "x": 0,
+    "y": 0
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "List_01 Copy 3",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "277510F2-B097-403C-98D7-6CA9E9EF2FAB_stringValue",
+      "value": "8"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "7F9B5A12-632E-4080-BCC2-C2A20B4B546E_stringValue",
+      "value": "You Sent a photo"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "FFF23DC2-1992-4562-88D5-895267B85B1B_stringValue",
+      "value": "Sshin"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "E237A86F-0937-4886-BAB1-73D9D8329A11_symbolID",
+      "value": "B1D56FF9-D055-4FAD-88FC-769B3D51A056"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "C02FF5F4-046C-4D94-B3BA-593774424E40_stringValue",
+      "value": "稲垣麻緒"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "01ADDB6E-E84B-4ECD-B244-325030A2DEE0_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/d4df624cb8aaa84aae600418e5fd3995e25892e9.png",
+        "_ref_class": "MSImageData"
+      }
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "8E1B2439-E153-4795-B906-9ABE00A75552",
+      "overrideName": "B722F27D-7E8F-43FE-ADA0-DB27D8684B01_symbolID",
+      "value": ""
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "316B5E55-7E2B-4239-9060-F83E216A3017",
+      "overrideName": "050A2302-5D91-4615-8F4B-D5ABFCCDF073_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/6c1ba0edbda5c9386cdc113e3ee2e706002a24b4.png",
+        "_ref_class": "MSImageData"
+      }
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "BD8BCAE1-16F9-434F-BFC6-A657200BDB1F",
+      "overrideName": "88224825-63CE-45CF-882F-CEF8153EB39B_stringValue",
+      "value": "13 Mar"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "A311D101-C093-4C4E-BA72-277DC1181C88",
+      "overrideName": "72D45915-02C8-4CC0-BC2D-022C63B4F594_stringValue",
+      "value": "Minami magazine Hamabe(17)"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "42A8E663-7BF5-4E39-A04B-A8D10FBF4EA7",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "1A10EBBF-F843-460B-93EF-60AA55EBBC01",
+  "verticalSpacing": 0
+}

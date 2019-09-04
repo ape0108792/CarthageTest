@@ -1,0 +1,108 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "E4B8F448-35A0-4FD4-951D-F3E0E4E9ED95",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "A04C2E23-F871-42BD-8033-ED6B037DB164",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "46A9AED0-F3BC-4852-A930-F7E012F6E653",
+    "height": 45,
+    "width": 343,
+    "x": 0,
+    "y": 0
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Open chat Copy 4",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "829710FE-2D3F-42DA-8931-DFD2F9AD1C69_stringValue",
+      "value": "今すぐ"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "12A73CCF-324F-47CD-A35C-BDA86DB2DA61_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/d4df624cb8aaa84aae600418e5fd3995e25892e9.png",
+        "_ref_class": "MSImageData"
+      }
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "89875EF4-B6DA-45D9-B12F-AAA871DBE6F1_stringValue",
+      "value": "887"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "9F85A8B3-EF79-46F2-854D-EE9F06D1B09C_stringValue",
+      "value": "83"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "5B32D879-70DD-4143-9837-7767F5409549_symbolID",
+      "value": ""
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "0D3E4718-71C7-467E-A53A-6B5C617FBB9F_stringValue",
+      "value": "小松あられ"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "9E49752D-15B6-463D-A302-656716A7C130",
+      "overrideName": "6F5BB3B2-0A4B-4F5A-9413-70FF0EC9928C_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/90eda6b49d59b8e1f64ad2c7216f827f96cb4f98.png",
+        "_ref_class": "MSImageData"
+      }
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "35F096C6-725E-487A-B36C-31A7CF0FC83F",
+      "overrideName": "BA3EDB8C-54BB-4872-8E9B-A6F99B08D889_stringValue",
+      "value": "Hamabe Minami Jeremih"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "585B06F0-B641-4084-9B0D-36D4C1CA32F5",
+      "overrideName": "71D05058-7408-4009-A8A5-325444163EBD_stringValue",
+      "value": "Lost my mind"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "740A99BE-EAB4-4057-9640-231BAB2F60C2",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "3271D647-052E-47B9-AC63-711650A5CB49",
+  "verticalSpacing": 0
+}

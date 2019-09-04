@@ -1,0 +1,126 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "3A384C49-9550-4573-B63B-5A2760A586B9",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "F20AC68D-B937-4F44-9C56-D513AE6EB617",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "509F8CDC-501F-4A2D-BA86-6C2F83545C50",
+    "height": 55,
+    "width": 343,
+    "x": 0,
+    "y": 142
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "List_01",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "E77502A8-AF28-4E66-8276-7D458289E845",
+      "overrideName": "277510F2-B097-403C-98D7-6CA9E9EF2FAB_stringValue",
+      "value": "8"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "CAF91A1A-11F8-4F2A-9ED2-9AB09EE92C5A",
+      "overrideName": "7F9B5A12-632E-4080-BCC2-C2A20B4B546E_stringValue",
+      "value": "You Sent a photo"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "96BE838E-0298-4440-9580-82448CBA9BD2",
+      "overrideName": "FFF23DC2-1992-4562-88D5-895267B85B1B_stringValue",
+      "value": "Sshin"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "B792836D-0B89-4D60-97A0-926CCA0218E7",
+      "overrideName": "E237A86F-0937-4886-BAB1-73D9D8329A11_symbolID",
+      "value": "B1D56FF9-D055-4FAD-88FC-769B3D51A056"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "D7447A69-BD06-4288-9436-B853C403BEC7",
+      "overrideName": "C02FF5F4-046C-4D94-B3BA-593774424E40_stringValue",
+      "value": "稲垣麻緒"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "AEFC3285-2C12-4D1F-B39A-D81B4C70EEAA",
+      "overrideName": "01ADDB6E-E84B-4ECD-B244-325030A2DEE0_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/4b96ec18d7a3786577c27556e373aad89a95cf6e.png",
+        "_ref_class": "MSImageData"
+      }
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "0C1943C0-23C2-4D57-AA6A-049115CC42EF",
+      "overrideName": "FCD5CBFB-DE7A-49C0-8E05-0710B2BAF294_stringValue",
+      "value": "昨日放送の浜崎あゆみが出演したのにどの放送なのか知っている"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "07069777-4683-4063-8550-15EAE3689772",
+      "overrideName": "BF58FC1F-9CEA-4775-B5FF-FA7FF373D7D3_symbolID",
+      "value": ""
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "90B6EF84-717D-462E-B717-8E33FBA5BBC2",
+      "overrideName": "E3F989D8-617B-4DA4-8323-DACE93F5E7D3_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/4f092d985a26739974861a0a56ee1f0b74da7c01.png",
+        "_ref_class": "MSImageData"
+      }
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "3811088D-6D63-48C4-AD64-DEEE3888F69D",
+      "overrideName": "1037CE30-AB18-47E0-97B6-FE5FA8E7DEA9_stringValue",
+      "value": "Product Designer (182)"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "0EA097AD-D327-4D31-A512-B581562B67E1",
+      "overrideName": "1284844D-A758-44A4-AC4F-952ADCE96710_stringValue",
+      "value": "18"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "8C7DA67F-BC19-413D-ADA6-0AC2CFC0B9FB",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "107DF13C-9BF2-460B-9EFD-BC5128C97BCA",
+  "verticalSpacing": 0
+}

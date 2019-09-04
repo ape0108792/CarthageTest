@@ -1,0 +1,125 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "BBF018C6-1B71-48D3-BF5C-EDB6C18DAB81",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "C429A4D2-8BDF-4346-9961-AAF067920D85",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "64F05D69-E9B5-4ACC-9958-19B349B9CDAE",
+    "height": 709,
+    "width": 343,
+    "x": 16,
+    "y": 2036
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout",
+    "do_objectID": "BD1514A3-B4A0-4AAC-80C4-542CAE9A2A35"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "65B168DC-52FE-42F8-A0A4-726407AC4DEB"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "B52BEF4F-82B8-48EB-8372-9DA93E688B50"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "BB78D1DB-C6A1-4490-A509-D7CF405039C9"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "32CB47F2-BF65-48B0-974A-2AF68A1BAC9F"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "CA347D97-4AB4-42EA-9EAD-6037BF7583EF"
+    },
+    {
+      "class": "group",
+      "id": "9BC683EF-362C-48D7-A216-706FB46F5014"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "724BF175-F356-40F3-8F6A-1C3F7DA19145"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "07D85E7A-2869-454C-A04E-74CE3FFA95D9"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "108A39F1-89F0-4181-B4F0-C7CCFD574EAA"
+    },
+    {
+      "class": "group",
+      "id": "6AB28244-B929-4D93-A5F1-2B213FC68BC6"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "BEDA1465-38F2-468D-AC70-C2D3A7C14BF3"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "7FBF7E09-2200-4C2A-A841-D22E5E46559E"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "C3970814-1420-48CF-82B9-2E04CED21A62"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "F81A83C3-8380-4E91-AB7A-593E5E2EFEE6"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "2586947E-6181-4B50-A2D2-1F0718B78BA6"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "91FD8B8A-385E-40F6-BDDB-4B9251967DB5"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "DE8D94B0-F5F5-48A1-8D94-B173756B6FF2"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "9A871034-0944-4CA0-8C2A-388DC343B661"
+    }
+  ],
+  "name": "news",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "BABD3C0C-C15F-423B-B3C2-AE0DB3E1682E",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}
